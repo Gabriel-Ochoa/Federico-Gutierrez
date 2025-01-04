@@ -5,8 +5,7 @@ import discord
 import numpy
 import keras
 import requests
-import tensorflow
-#import Pillow
+
 from discord.ext import commands
 
 import webserver
